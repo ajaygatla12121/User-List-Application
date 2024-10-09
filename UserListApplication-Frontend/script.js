@@ -60,5 +60,4 @@ function displayUserDetails(user) {
     userDetails.style.display = 'block';
 }
 
-// Fetch users when the page loads
 fetchUsers();
